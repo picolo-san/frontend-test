@@ -1,0 +1,11 @@
+
+export enum MODAL_STATUS {
+  OPENED,
+  CLOSED,
+  FIRST_TIME_LOADED,
+}
+
+export enum BUTTON_VARIANT_TYPES {
+  CONTAINED,
+  OUTLINED,
+}
