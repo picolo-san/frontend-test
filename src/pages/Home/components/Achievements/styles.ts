@@ -10,8 +10,10 @@ export const achievementsStyles = `
   md:grid-rows-[154px_121px_154px]
   md:grid-cols-[repeat(8,69px)]
   md:mb-[178px]
-  2xs:grid-rows-[repeat(5,164px)]
-  2xs:grid-cols-[repeat(2,164px)]
+  xs:grid-rows-[repeat(5,164px)]
+  xs:grid-cols-[repeat(2,164px)]
+  2xs:grid-rows-[repeat(5,150px)]
+  2xs:grid-cols-[repeat(2,150px)]
   2xs:gap-y-6
   2xs:gap-x-4
   2xs:mb-40

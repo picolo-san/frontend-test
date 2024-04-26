@@ -8,7 +8,8 @@ import { ReactComponent as StackIcon } from "assets/icons/svg/others/stack.svg";
 const headerStyles = `
   flex 
   justify-between 
-  w-full 
+  w-screen
+ 
   fixed 
   top-0 
   left-0 

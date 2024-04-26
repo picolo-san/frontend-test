@@ -2,7 +2,7 @@ export const appStyles = `
   bg-gradient-to-tl 
   from-colors-darkBlue 
   to-colors-darkPurple 
-  w-full 
+  w-screen
   h-auto
   min-h-150 
   pt-[76px]
@@ -20,4 +20,5 @@ export const mainStyles = `
   xl:mt-[160px]
   md:mt-[138px]
   2xs:mt-20
+  w-full
 `;

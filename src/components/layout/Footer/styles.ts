@@ -6,8 +6,9 @@ export const footerStyles = `
   md:mt-[93.1px]
   md:w-[664px]
   md:grid-cols-[repeat(4,1fr)]
+  xs:w-[343px]
+  2xs:w-[300px]
   2xs:mt-[26.63px]
-  2xs:w-[343px]
   2xs:grid-cols-[repeat(2,1fr)]
   2xs:grid-rows-[36px_auto]
   2xs:gap-y-10

@@ -21,7 +21,7 @@ export const cardStyles = `
   relative
   md:w-[744px]
   xs:w-[343px]
-
+  2xs:w-full
 `;
 
 export const Cards = () => {

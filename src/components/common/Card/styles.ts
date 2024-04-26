@@ -2,9 +2,10 @@ export const commonCardStyles = `
   xl:rounded-[32px]
   xl:h-[426px]
   xl:w-[384px]
+  xs:w-[324px]
   2xs:rounded-3xl
   2xs:h-[390px]
-  2xs:w-[324px]
+  2xs:w-[300px]
 `;
 
 export const cardStyles = `
